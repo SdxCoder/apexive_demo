@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "999798420890",
+    "project_id": "apexive-b91f0",
+    "storage_bucket": "apexive-b91f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999798420890:android:a7a29175a6e969c1737623",
+        "android_client_info": {
+          "package_name": "com.example.apexive_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999798420890-t4vt0prppf03q13t51dm7vgdbdgvqcq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjIDm6jE1fE2sYSrp33dkLDjOgsk1Djxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999798420890-t4vt0prppf03q13t51dm7vgdbdgvqcq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
